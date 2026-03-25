@@ -7,6 +7,6 @@
 { "type": "Feature", "properties": { "title": "S01E03 - Pedro", "content_file": "content/S01E03.md"}, "geometry": { "type": "Point", "coordinates": [ -51.04814062112038, -19.83118657599939 ] } },
 { "type": "Feature", "properties": { "title": "S01E01 - Introduction", "content_file": "content/S01E01.md"}, "geometry": { "type": "Point", "coordinates": [ 13.536792850901307, 52.43285698844102 ] } },
 { "type": "Feature", "properties": { "title": "S01E02 - Franzi", "content_file": "content/S01E02.md"}, "geometry": { "type": "Point", "coordinates": [ 13.396128508554707, 52.4771993005122 ] } },
-{ "type": "Feature", "properties": { "title": "S01E04 - Kei", "content_file": "content/S01E04.md"}, "geometry": { "type": "Point", "coordinates": [ 13.375946447259784, 52.518804372827084] } },
+{ "type": "Feature", "properties": { "title": "S01E04 - Kei", "content_file": "content/S01E04.md"}, "geometry": { "type": "Point", "coordinates": [ 13.375946447259784, 52.518804372827084] } }
 ]
 }
