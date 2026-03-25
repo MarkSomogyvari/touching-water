@@ -6,6 +6,12 @@
       <description>Last 10 notes on Touching Water Podcast</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Home</title>
+    <link>https://mark.somogyvari.github.io/touching-water/</link>
+    <guid>https://mark.somogyvari.github.io/touching-water/</guid>
+    <description><![CDATA[ Touching Water: a Science Podcast Welcome to the Touching Water Podcast portal! Here you can find all our episodes, shownotes and extra information about our podcast. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 09:35:57 GMT</pubDate>
+  </item><item>
     <title>Season 2</title>
     <link>https://mark.somogyvari.github.io/touching-water/Season-2</link>
     <guid>https://mark.somogyvari.github.io/touching-water/Season-2</guid>
@@ -47,12 +53,6 @@
     <guid>https://mark.somogyvari.github.io/touching-water/S01E01</guid>
     <description><![CDATA[ Introducing Touching Water We started this podcast because we are interested in exploring how to approach water. ]]></description>
     <pubDate>Wed, 25 Mar 2026 08:50:54 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://mark.somogyvari.github.io/touching-water/</link>
-    <guid>https://mark.somogyvari.github.io/touching-water/</guid>
-    <description><![CDATA[ Touching Water: a Science Podcast Welcome to the Touching Water Podcast portal! Here you can find all our episodes, shownotes and extra information about our podcast. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 08:34:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
