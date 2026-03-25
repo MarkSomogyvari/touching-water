@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "DEMOTAPE",
+    pageTitle: "Touching Water Podcast",
     pageTitleSuffix: "",
 	enableStaticOutput: true,
     enableSPA: true,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "mark.somogyvari.github.io/demotape-explorer",
+    baseUrl: "mark.somogyvari.github.io/touching-water",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
